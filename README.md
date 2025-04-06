@@ -17,7 +17,7 @@ Learning Go on an on- and off schedule.
 ## The things I use
 [![My Skills](https://skillicons.dev/icons?i=linux,neovim,windows,md,obsidian,github,discord)](https://skillicons.dev)
 
-## Some awful stats about me
+## Some awful ✨stats✨ about me
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hardomx&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hardomx&theme=default&show_icons=true&hide_border=true&layout=compact)
 
